@@ -1,0 +1,117 @@
+.jfhnoticecss {
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.jhfjhnoticestatic {
+  width: 90%;
+  margin-top: 5px;
+  height: 50px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  background-color: aqua;
+  z-index: 300;
+  text-align: center;
+  font-size: 20px;
+}
+.hggjgnoticescroll {
+  width: 90%;
+  height: 290px;
+  margin-top: -10px;
+  overflow-x: scroll;
+}
+.jdhfjkulcss {
+  background-color: aliceblue;
+  list-style: none;
+  padding: 10px;
+  font-size: 22px;
+}
+.jdhfjkulcss li {
+  background-color: aliceblue;
+  border: 2px solid black;
+  margin-top: 5px;
+  padding: 4px;
+  border-radius: 10px;
+}
+.jjkdjinputgetcontact {
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.jfjkhfinput {
+  padding: 9px;
+  width: 90%;
+  height: 15px;
+  border-radius: 15px;
+  background-color: aliceblue;
+  margin-bottom: 5px;
+}
+.jfjkhfteextarea {
+  height: 190px;
+}
+jnfjbuttoncvcss {
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  width: 190px;
+  height: 55px;
+  border-radius: 25px;
+}
+.ytytprincipal {
+  display: flex;
+  align-items: center;
+}
+.tyytytytyth2 {
+  width: 95vw;
+  text-align: center;
+  font-size: 50px;
+  padding: 15px;
+}
+.tyytytytyth2 img {
+  float: right;
+  height: 20vw;
+  width: 20vw;
+  min-height: 190px;
+  min-width: 190px;
+  margin-top: 5px;
+}
+.tyytytytyth2 p {
+  font-size: 2.3vw;
+  text-align: left;
+}
+.buttoncssdonation button {
+  width: 230px;
+  height: 60px;
+  margin: 5px 20px;
+  border-radius: 12px;
+  background-color: deepskyblue;
+}
+.paddimg {
+  padding: 28px;
+}
+.padding20px {
+  padding: 20px;
+}
+.vbvbvprint {
+  position: fixed;
+  width: 25vw;
+  height: 25vw;
+  margin-top: -80px;
+  z-index: 10000;
+  background-color: blanchedalmond;
+}
+.hjhjhgghgbottom {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.hjhjhgghgbottomm {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.bhuioooo {
+  max-width: 70vw;
+}
